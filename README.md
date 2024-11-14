@@ -230,7 +230,7 @@ Used to label images for specific categories.
 Output of the labelIMG script, listing categorized labels.
 
 
-<img src="https://github.com/user-attachments/assets/f200ee91-2cb3-4984-b5ac-69d755768025" alt="Screenshot 2024-11-14 230533" width="50" height="500">
+<img src="https://github.com/user-attachments/assets/f200ee91-2cb3-4984-b5ac-69d755768025" alt="Screenshot 2024-11-14 230533" width="500" height="50">
 
 
 5.[label_manipulation.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/label_manupulation.py)

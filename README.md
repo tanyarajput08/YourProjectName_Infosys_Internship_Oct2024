@@ -1,25 +1,25 @@
-### YourProjectName_Infosys_Internship_Oct2024
+# YourProjectName_Infosys_Internship_Oct2024
 ## AI-Enhanced Engagement Tracker for Young Learners 📚✨
 
 
 Welcome to the AI-Enhanced Engagement Tracker for Young Learners! This project was developed by Tanya Chauhan during an internship at Infosys Springboard.
 
-# Overview 🌟
+### Overview 🌟
 
 The AI-Enhanced Engagement Tracker is designed to monitor and analyze young learners' engagement levels in real-time. Utilizing advanced AI techniques, this system provides educators and guardians with actionable insights, enabling a more effective and personalized learning experience.
 
-# Project Structure 📁
+### Project Structure 📁
 
 This repository contains the following main folders:
 
-# [image_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/image_processing) 🖼
+### [image_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/image_processing) 🖼
 
 Scripts for fundamental image processing operations that aid in analyzing learner engagement visually.
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)
 Performs dilation and erosion operations, essential morphological techniques in image processing.
 
-# Output:
+#### Output:
 
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="500" height="300" />
@@ -27,7 +27,7 @@ Performs dilation and erosion operations, essential morphological techniques in 
 2.[edgedetect.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/edgedetect.py)
 Detects image edges using algorithms that highlight object boundaries.
 
-Output:
+#### Output:
 
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-9d81-e5192aa598a9" width="200" height="300" />

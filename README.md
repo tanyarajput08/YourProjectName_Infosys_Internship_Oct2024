@@ -1,15 +1,18 @@
 # YourProjectName_Infosys_Internship_Oct2024
-<span style="font-size:24px;"><u>AI-Enhanced Engagement Tracker for Young Learners 📚✨</u></span>
+##AI-Enhanced Engagement Tracker for Young Learners 📚✨
 
 Welcome to the AI-Enhanced Engagement Tracker for Young Learners! This project was developed by Tanya Chauhan during an internship at Infosys Springboard.
 
-<span style="font-size:20px;">Overview 🌟</u></span>
+Overview 🌟
+
 The AI-Enhanced Engagement Tracker is designed to monitor and analyze young learners' engagement levels in real-time. Utilizing advanced AI techniques, this system provides educators and guardians with actionable insights, enabling a more effective and personalized learning experience.
 
 Project Structure 📁
+
 This repository contains the following main folders:
 
 [image_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/image_processing) 🖼
+
 Scripts for fundamental image processing operations that aid in analyzing learner engagement visually.
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)

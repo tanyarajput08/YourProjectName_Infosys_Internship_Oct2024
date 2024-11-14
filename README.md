@@ -213,7 +213,8 @@ Contains resources for labeling and organizing images, enabling efficient model 
 
 Sample image used for testing and demonstrations.
 
-<img src="path/to/first_image.png" alt="First Image" width="200" height="200">
+
+<img src="https://github.com/user-attachments/assets/7f573a24-9fc0-4c64-9ffb-323ad2803fdf" alt="Screenshot 2024-11-14 230509" width="200" height="200">
 
 
 2.[kaggle_install.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/kaggle%20install.py)
@@ -228,7 +229,8 @@ Used to label images for specific categories.
 
 Output of the labelIMG script, listing categorized labels.
 
-<img src="path/to/second_image.png" alt="Second Image" width="50" height="500">
+
+<img src="https://github.com/user-attachments/assets/f200ee91-2cb3-4984-b5ac-69d755768025" alt="Screenshot 2024-11-14 230533" width="50" height="500">
 
 
 5.[label_manipulation.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/label_manupulation.py)

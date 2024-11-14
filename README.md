@@ -13,27 +13,27 @@ Scripts for fundamental image processing operations that aid in analyzing learne
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)
 Performs dilation and erosion operations, essential morphological techniques in image processing.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="200" height="300" />
 
 2.[edgedetect.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/edgedetect.py)
 Detects image edges using algorithms that highlight object boundaries.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-9d81-e5192aa598a9" width="200" height="300" />
 
 3.[rgbtogrey.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rgbtogrey.py)
-Converts images to grayscale and black & white, common preprocessing steps in image analysis.
-Output:
+Converts images to grayscale , common preprocessing steps in image analysis.
+Output:<img src="https://github.com/user-attachments/assets/f8736309-3e30-48ed-8793-6f3cfc8ad1b2" width="200" height="300" />
 
 4.[hsv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/hsv.py)
 Converts images to HSV color space, facilitating color-based image segmentation.
-Output:
+Output:<img src="https://github.com/user-attachments/assets/ea83a0db-737e-484d-9e9f-360a29dc2f2c" width="200" height="300" />
 
 5.[rotate.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rotate.py)
 Rotates images by specified angles, useful for alignment and augmentation.
-Output:
+Output:<img src="https://github.com/user-attachments/assets/a9193d98-8114-4267-84a4-df4b03d18723" width="200" height="300" />
 
 6.[singleimage.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/singleimage.py)
 Basic utility script for opening and manipulating a single image.
-Output:
+Output:<img src="https://github.com/user-attachments/assets/e8bb2c67-59b7-4a88-87a1-77447e275e53" width="200" height="300" />
 
 7.[blur.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/blur.py)
 Applies various blurring techniques for noise reduction and smoothing.
@@ -42,11 +42,11 @@ Output:<img src="https://github.com/user-attachments/assets/9c210921-36ac-4cc5-a
 
 8.[imgstack.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/imgstack.py)
 Concatenates multiple images into one, ideal for creating mosaics or comparisons.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" /><img src="https://github.com/user-attachments/assets/31da64d4-4720-4ea4-96cd-5132919a35e6" width="200" height="300" />
 
 9.[contour.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/contour.py)
 Detects and draws contours around objects, supporting shape analysis and object detection.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/3ddfa2d8-63ce-4090-a813-578ca9c7135e" width="200" height="300" />
 
 10.[crop.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/crop.py)
 Crops images to a specified region, focusing on areas of interest.
@@ -55,21 +55,22 @@ Output:
 
 11.[hist-py.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/hist-py.py)
 Enhances image contrast through histogram equalization.
-Output:
+Output:<img src="https://github.com/user-attachments/assets/68f3f8ee-5908-4869-9ce2-de8f9057a33f" width="200" height="300" />
+
 
 12.[morph.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/morph.py)
 Reduces image noise using morphological techniques for improved quality.
-Input: 
-Output: 
+Input: <img src="https://github.com/user-attachments/assets/62721336-91b3-4968-bc99-cfa71af19fdc" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
 
 13.[resize.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/resize.py)
 Resizes images to standardized dimensions.
 Input: 
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/34e2a00d-38b4-44e5-b3c1-f01aa1452ddd" width="200" height="300" />
 
 14.[template.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/template.py)
 A basic template for creating new image processing scripts.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/4dcc102a-2ce6-4a85-af8b-3f91b2a35969" width="200" height="300" />
 
 [video_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/vedio_processing) 🎥
 Scripts for real-time video processing and analysis.
@@ -80,11 +81,11 @@ Output: Screenshot of recorded video frame
 
 2.[videostackingh.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingh.py)
 Stacks multiple video streams into a single frame for multi-feed monitoring horizontally.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/0a18089c-b0ed-4af5-b978-fbdf3acb3dfe" width="200" height="300" />
 
 3.[videostackingv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingv.py)
 Stacks multiple video streams into a single frame for multi-feed monitoring vertically.
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/0a18089c-b0ed-4af5-b978-fbdf3acb3dfe" width="200" height="300" />
 
 4.[tanya_fps.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_fps.py)
 Calculates the frames per second (FPS) of a video stream, helping to monitor video processing performance.

@@ -14,6 +14,8 @@ This repository contains the following main folders:
 ## [image_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/image_processing) 🖼
 
 Scripts for fundamental image processing operations that aid in analyzing learner engagement visually.
+Libraries or frame works used - opencv
+version = 4.10.0.84
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)
 
@@ -150,7 +152,10 @@ A basic template for creating new image processing scripts.
 
 
 ## [video_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/vedio_processing) 🎥
+
 Scripts for real-time video processing and analysis.
+Libraries or frame works used - opencv
+version = 4.10.0.84
 
 1.[tanya_save.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_save.py)
 
@@ -207,7 +212,10 @@ Streams video in real-time from a file or camera, forming the base for further p
 
 
 ## [Annotations](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/Annotations) 📝
+
 Contains resources for labeling and organizing images, enabling efficient model training and evaluation.
+Libraries or frame works used - opencv,labelImg
+version = 4.10.0.84 , labelImg= 1.8.6
 
 1.[input_img.jpeg](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/input_img.jpeg)
 
@@ -242,6 +250,23 @@ Script for updating or modifying image labels.
 Segregates labeled data into different groups for analysis.
 
  ## [Face Recognition]📸
+
+## Description
+
+Here’s a revised version of the summary:
+
+This project focuses on developing an AI-enhanced engagement tracker for children using face recognition technology. It leverages libraries like opencv-python, face_recognition, dlib, pandas, numpy, imutils, datetime, and os to track and analyze children's facial expressions and engagement levels in real-time. By processing video streams and recognizing key facial features, the system provides insights into a child's attention and interaction, helping improve educational or entertainment experiences.
+
+
+### libraries and framework used
+opencv-python==4.10.0.84
+face_recognition==1.3.0
+dlib==19.24.6
+pandas==2.2.3
+numpy==1.24.3
+imutils==0.5.4
+datetime==5.5
+os
  
 This section focuses on face recognition and attentiveness analysis using Python, OpenCV, dlib, and the face_recognition library.
 
@@ -255,7 +280,8 @@ Logs attendance and calculates attention scores based on face recognition, with 
   
   [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_atten_score/atten_score.mp4)
 
-  <img src="https://github.com/user-attachments/assets/8b10c1ed-1d25-4ec9-bb8c-8f64ef7a9a75" alt="Screenshot 1" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/ae5ca0d9-7180-47e3-880d-fc2c3e4e99f6" alt="atten_score" width="400" height="300">
+
 
   <img src="https://github.com/user-attachments/assets/005b1f7f-4cd3-4aa0-950f-dde793803283" alt="Screenshot 2" width="300" height="300">
   
@@ -271,9 +297,9 @@ A variation of the attendance logger that uses facial landmarks to analyze atten
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_avg_attention_score/atten_score_avg.mp4)
 
 
-<img src="https://github.com/user-attachments/assets/90399d9a-175b-4d35-9005-537a849f001b" alt="Screenshot 8" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/8b10c1ed-1d25-4ec9-bb8c-8f64ef7a9a75" alt="Screenshot 1" width="400" height="300">
 
-<img src="https://github.com/user-attachments/assets/10b24754-37c1-4f4c-86a1-1cb6a23cf56e" alt="Tanya Chauhan2024-11-1117-29-15" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/90399d9a-175b-4d35-9005-537a849f001b" alt="Screenshot 8" width="300" height="300">
 
 
 
@@ -308,7 +334,6 @@ Similar to excel_sc_dt.py, with an alternative configuration for logging and cap
 
 <img src="https://github.com/user-attachments/assets/e407e03f-8343-404f-b3fb-085e4b963cff" alt="Screenshot 3" width="400" height="300">
 
-<img src="https://github.com/user-attachments/assets/85f67078-d40b-42fe-8db3-1f04d15bbe4d" alt="Screenshot 9" width="300" height="300">
 
 
 

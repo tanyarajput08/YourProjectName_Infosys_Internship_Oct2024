@@ -21,7 +21,7 @@ Output: <img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-
 
 3.[rgbtogrey.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rgbtogrey.py)
 Converts images to grayscale , common preprocessing steps in image analysis.
-Output:<img src="https://github.com/user-attachments/assets/f8736309-3e30-48ed-8793-6f3cfc8ad1b2" width="200" height="300" />
+Output:<img src="https://github.com/user-attachments/assets/a9193d98-8114-4267-84a4-df4b03d18723" width="200" height="300" />
 
 4.[hsv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/hsv.py)
 Converts images to HSV color space, facilitating color-based image segmentation.
@@ -29,11 +29,11 @@ Output:<img src="https://github.com/user-attachments/assets/ea83a0db-737e-484d-9
 
 5.[rotate.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rotate.py)
 Rotates images by specified angles, useful for alignment and augmentation.
-Output:<img src="https://github.com/user-attachments/assets/a9193d98-8114-4267-84a4-df4b03d18723" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
 
 6.[singleimage.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/singleimage.py)
 Basic utility script for opening and manipulating a single image.
-Output:<img src="https://github.com/user-attachments/assets/e8bb2c67-59b7-4a88-87a1-77447e275e53" width="200" height="300" />
+Output:<img src="https://github.com/user-attachments/assets/34e2a00d-38b4-44e5-b3c1-f01aa1452ddd" width="200" height="300" />
 
 7.[blur.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/blur.py)
 Applies various blurring techniques for noise reduction and smoothing.
@@ -61,16 +61,16 @@ Output:<img src="https://github.com/user-attachments/assets/68f3f8ee-5908-4869-9
 12.[morph.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/morph.py)
 Reduces image noise using morphological techniques for improved quality.
 Input: <img src="https://github.com/user-attachments/assets/62721336-91b3-4968-bc99-cfa71af19fdc" width="200" height="300" />
-Output: <img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
+Output: 
 
 13.[resize.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/resize.py)
 Resizes images to standardized dimensions.
 Input: 
-Output: <img src="https://github.com/user-attachments/assets/34e2a00d-38b4-44e5-b3c1-f01aa1452ddd" width="200" height="300" />
+Output:<img src="https://github.com/user-attachments/assets/f8736309-3e30-48ed-8793-6f3cfc8ad1b2" width="200" height="300" /> 
 
 14.[template.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/template.py)
 A basic template for creating new image processing scripts.
-Output: <img src="https://github.com/user-attachments/assets/4dcc102a-2ce6-4a85-af8b-3f91b2a35969" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/e8bb2c67-59b7-4a88-87a1-77447e275e53" width="200" height="300" />
 
 [video_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/vedio_processing) 🎥
 Scripts for real-time video processing and analysis.
@@ -85,7 +85,7 @@ Output: <img src="https://github.com/user-attachments/assets/0a18089c-b0ed-4af5-
 
 3.[videostackingv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingv.py)
 Stacks multiple video streams into a single frame for multi-feed monitoring vertically.
-Output: <img src="https://github.com/user-attachments/assets/0a18089c-b0ed-4af5-b978-fbdf3acb3dfe" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/4dcc102a-2ce6-4a85-af8b-3f91b2a35969" width="200" height="300" />
 
 4.[tanya_fps.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_fps.py)
 Calculates the frames per second (FPS) of a video stream, helping to monitor video processing performance.

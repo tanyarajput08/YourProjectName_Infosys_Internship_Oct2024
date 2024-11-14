@@ -69,8 +69,7 @@ Concatenates multiple images into one, ideal for creating mosaics or comparisons
 
 Output:
 
-<img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" /><img src="https://github.com/user-attachments/assets/31da64d4-4720-4ea4-96cd-5132919a35e6" width="500" height="300" />
-
+<img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" />
 9.[contour.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/contour.py)
 Detects and draws contours around objects, supporting shape analysis and object detection.
 
@@ -97,11 +96,10 @@ Output:
 12.[morph.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/morph.py)
 Reduces image noise using morphological techniques for improved quality.
 
-Input:
+Input:                                                   Output:
 
-<img src="https://github.com/user-attachments/assets/62721336-91b3-4968-bc99-cfa71af19fdc" width="200" height="300" />
+<img src="https://github.com/user-attachments/assets/62721336-91b3-4968-bc99-cfa71af19fdc" width="200" height="300" /> <img src="https://github.com/user-attachments/assets/31da64d4-4720-4ea4-96cd-5132919a35e6" width="500" height="300" />
 
-Output: 
 
 13.[resize.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/resize.py)
 Resizes images to standardized dimensions.

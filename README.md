@@ -13,7 +13,7 @@ Scripts for fundamental image processing operations that aid in analyzing learne
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)
 Performs dilation and erosion operations, essential morphological techniques in image processing.
-Output: <img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="500" height="300" />
 
 2.[edgedetect.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/edgedetect.py)
 Detects image edges using algorithms that highlight object boundaries.
@@ -42,7 +42,7 @@ Output:<img src="https://github.com/user-attachments/assets/9c210921-36ac-4cc5-a
 
 8.[imgstack.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/imgstack.py)
 Concatenates multiple images into one, ideal for creating mosaics or comparisons.
-Output: <img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" /><img src="https://github.com/user-attachments/assets/31da64d4-4720-4ea4-96cd-5132919a35e6" width="200" height="300" />
+Output: <img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" /><img src="https://github.com/user-attachments/assets/31da64d4-4720-4ea4-96cd-5132919a35e6" width="500" height="300" />
 
 9.[contour.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/contour.py)
 Detects and draws contours around objects, supporting shape analysis and object detection.

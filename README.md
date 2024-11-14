@@ -24,6 +24,7 @@ Performs dilation and erosion operations, essential morphological techniques in 
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="500" height="300" />
 
+
 2.[edgedetect.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/edgedetect.py)
 
 Detects image edges using algorithms that highlight object boundaries.
@@ -33,6 +34,7 @@ Detects image edges using algorithms that highlight object boundaries.
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-9d81-e5192aa598a9" width="200" height="300" />
 
+
 3.[rgbtogrey.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rgbtogrey.py)
 
 Converts images to grayscale , common preprocessing steps in image analysis.
@@ -41,6 +43,7 @@ Converts images to grayscale , common preprocessing steps in image analysis.
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/a9193d98-8114-4267-84a4-df4b03d18723" width="200" height="300" />
 
+
 4.[hsv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/hsv.py)
 
 Converts images to HSV color space, facilitating color-based image segmentation.
@@ -48,6 +51,7 @@ Converts images to HSV color space, facilitating color-based image segmentation.
 ### Output:
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/ea83a0db-737e-484d-9e9f-360a29dc2f2c" width="200" height="300" />
+
 
 5.[rotate.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rotate.py)
 
@@ -58,6 +62,7 @@ Rotates images by specified angles, useful for alignment and augmentation.
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
 
+
 6.[singleimage.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/singleimage.py)
 
 Basic utility script for opening and manipulating a single image.
@@ -65,6 +70,7 @@ Basic utility script for opening and manipulating a single image.
 ### Output:
 
 <img src="https://github.com/user-attachments/assets/34e2a00d-38b4-44e5-b3c1-f01aa1452ddd" width="200" height="300" />
+
 
 7.[blur.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/blur.py)
 
@@ -84,6 +90,7 @@ Concatenates multiple images into one, ideal for creating mosaics or comparisons
 
 <img src="https://github.com/user-attachments/assets/1eb20c3e-4ced-43cf-aa8b-98045903ca29" width="200" height="300" />
 
+
 9.[contour.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/contour.py)
 
 Detects and draws contours around objects, supporting shape analysis and object detection.
@@ -91,6 +98,7 @@ Detects and draws contours around objects, supporting shape analysis and object 
 ### Output:
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/3ddfa2d8-63ce-4090-a813-578ca9c7135e" width="200" height="300" />
+
 
 10.[crop.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/crop.py)
 
@@ -129,6 +137,7 @@ Resizes images to standardized dimensions.
 
 
  <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/f8736309-3e30-48ed-8793-6f3cfc8ad1b2" width="100" height="200" /> 
+ 
 
 14.[template.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/template.py)
 
@@ -137,6 +146,7 @@ A basic template for creating new image processing scripts.
 ### Output:
 
 <img src="https://github.com/user-attachments/assets/8dcd8c33-48b4-4d06-93ec-35092f51d7f7" width="200" height="300" /><img src="https://github.com/user-attachments/assets/e8bb2c67-59b7-4a88-87a1-77447e275e53" width="200" height="300" />
+
 
 
 ## [video_processing](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/vedio_processing) 🎥
@@ -150,7 +160,9 @@ Records videos via webcam, capturing and saving video feeds.
 
 <img src="https://github.com/user-attachments/assets/e00eb7d7-70c2-491e-b115-5ce1e3950888" width="300" height="300" />
 
-saved video file - [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/output4.avi)
+
+### saved video file - [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/output4.avi)
+
 
 2.[videostackingh.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingh.py)
 
@@ -160,6 +172,7 @@ Stacks multiple video streams into a single frame for multi-feed monitoring hori
 
 <img src="https://github.com/user-attachments/assets/0a18089c-b0ed-4af5-b978-fbdf3acb3dfe" width="200" height="300" />
 
+
 3.[videostackingv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingv.py)
 
 Stacks multiple video streams into a single frame for multi-feed monitoring vertically.
@@ -167,6 +180,7 @@ Stacks multiple video streams into a single frame for multi-feed monitoring vert
 ### Output:
 
 <img src="https://github.com/user-attachments/assets/4dcc102a-2ce6-4a85-af8b-3f91b2a35969" width="200" height="300" />
+
 
 4.[tanya_fps.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_fps.py)
 
@@ -181,7 +195,6 @@ Calculates the frames per second (FPS) of a video stream, helping to monitor vid
 
 Displays multiple video streams, facilitating complex video comparisons and processing.
 
-### Output:
 
 6.[tanya_stream.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_stream.py)
 
@@ -192,12 +205,16 @@ Streams video in real-time from a file or camera, forming the base for further p
 <img src="https://github.com/user-attachments/assets/e00eb7d7-70c2-491e-b115-5ce1e3950888" width="300" height="300" />
 
 
+
 ## [Annotations](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/Annotations) 📝
 Contains resources for labeling and organizing images, enabling efficient model training and evaluation.
 
 1.[input_img.jpeg](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/input_img.jpeg)
 
 Sample image used for testing and demonstrations.
+
+<img src="path/to/first_image.png" alt="First Image" width="200" height="200">
+
 
 2.[kaggle_install.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/kaggle%20install.py)
 
@@ -210,6 +227,9 @@ Used to label images for specific categories.
 4.[label_img_output.txt](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/label_img_output.txt)
 
 Output of the labelIMG script, listing categorized labels.
+
+<img src="path/to/second_image.png" alt="Second Image" width="50" height="500">
+
 
 5.[label_manipulation.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/Annotations/label_manupulation.py)
 

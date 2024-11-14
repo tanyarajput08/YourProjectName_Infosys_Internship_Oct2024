@@ -255,9 +255,10 @@ Logs attendance and calculates attention scores based on face recognition, with 
   
   [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_atten_score/atten_score.mp4)
 
-  <img src="https://github.com/user-attachments/assets/8b10c1ed-1d25-4ec9-bb8c-8f64ef7a9a75" alt="Screenshot 1" width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/8b10c1ed-1d25-4ec9-bb8c-8f64ef7a9a75" alt="Screenshot 1" width="400" height="300">
 
   <img src="https://github.com/user-attachments/assets/005b1f7f-4cd3-4aa0-950f-dde793803283" alt="Screenshot 2" width="300" height="300">
+  
 
 2.[ave_attention_score](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_avg_attention_score)
 
@@ -270,7 +271,10 @@ A variation of the attendance logger that uses facial landmarks to analyze atten
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_avg_attention_score/atten_score_avg.mp4)
 
 
-<img src="https://github.com/user-attachments/assets/90399d9a-175b-4d35-9005-537a849f001b" alt="Screenshot 8" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/90399d9a-175b-4d35-9005-537a849f001b" alt="Screenshot 8" width="400" height="300">
+
+<img src="https://github.com/user-attachments/assets/10b24754-37c1-4f4c-86a1-1cb6a23cf56e" alt="Tanya Chauhan2024-11-1117-29-15" width="300" height="300">
+
 
 
 3.[excel_sc_dt](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_excel_sc_dt)
@@ -284,10 +288,11 @@ Captures video, logs attendance, and saves screenshots every 30 seconds for atte
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_excel_sc_dt/excel_sc_dt.mp4)
 
 
-<img src="https://github.com/user-attachments/assets/62d626ec-cea7-456a-a811-bdb3eec4c525" alt="Screenshot 4" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/62d626ec-cea7-456a-a811-bdb3eec4c525" alt="Screenshot 4" width="400" height="300">
 
 
 <img src="https://github.com/user-attachments/assets/85f67078-d40b-42fe-8db3-1f04d15bbe4d" alt="Screenshot 9" width="300" height="300">
+
 
 
 4.[excel_sc](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_excel_sc)
@@ -301,7 +306,10 @@ Similar to excel_sc_dt.py, with an alternative configuration for logging and cap
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_excel_sc/excel_sc.mp4)
 
 
-<img src="https://github.com/user-attachments/assets/e407e03f-8343-404f-b3fb-085e4b963cff" alt="Screenshot 3" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/e407e03f-8343-404f-b3fb-085e4b963cff" alt="Screenshot 3" width="400" height="300">
+
+<img src="https://github.com/user-attachments/assets/85f67078-d40b-42fe-8db3-1f04d15bbe4d" alt="Screenshot 9" width="300" height="300">
+
 
 
 5. [Face_Recog](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_face_recog)
@@ -314,6 +322,10 @@ Similar to excel_sc_dt.py, with an alternative configuration for logging and cap
 
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_face_recog/face_recog.mp4)
 
+
+<img src="https://github.com/user-attachments/assets/f70350b1-55e7-4cd9-822b-beef94dba7b7" alt="Tanya_Chauhan_2024-11-11_17-23-39" width="300" height="300">
+
+
 6.[landmark](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_landmark)
 
 Uses dlib's landmark predictor to monitor attentiveness based on head pose, logging scores and saving annotated screenshots.
@@ -324,8 +336,10 @@ Uses dlib's landmark predictor to monitor attentiveness based on head pose, logg
 
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_landmark/landmark.mp4)
 
-<img src="https://github.com/user-attachments/assets/5a7f817a-ebdc-44c0-bb8c-1198b89cd957" alt="Screenshot 5" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/5a7f817a-ebdc-44c0-bb8c-1198b89cd957" alt="Screenshot 5" width="400" height="300">
 
+
+<img src="https://github.com/user-attachments/assets/e0dc30d6-36db-4eea-a64d-cc0776120582" alt="Tanya Chauhan2024-11-1117-20-39" width="300" height="300">
 
 
 7.[test](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_test)
@@ -355,3 +369,8 @@ Additional tools and utilities to support face recognition and attention analysi
 [video](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/tanya_tool/tool.mp4)
 
 <img src="https://github.com/user-attachments/assets/d0bd8615-a4c1-427c-b5d5-1d7ad207e61e" alt="Screenshot 7" width="300" height="300">
+
+<img src="https://github.com/user-attachments/assets/ad8c23d7-b47c-429f-99ed-9e3291a087ce" alt="Screenshot" width="300" height="300">
+
+
+

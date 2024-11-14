@@ -82,10 +82,12 @@ Output:
 10.[crop.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/crop.py)
 Crops images to a specified region, focusing on areas of interest.
 
-Input: 
+output: 
 
 
-Output: 
+<img src="https://github.com/user-attachments/assets/524d7018-8c2c-434e-b272-87255db6cf36" width="200" height="300" /><img src="https://github.com/user-attachments/assets/3d265c16-5aec-45b1-80f5-0944a875124b" width="200" height="300" />
+
+
 
 11.[hist-py.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/hist-py.py)
 Enhances image contrast through histogram equalization.
@@ -125,7 +127,7 @@ Scripts for real-time video processing and analysis.
 1.[tanya_save.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_save.py)
 Records videos via webcam, capturing and saving video feeds.
 
-Output:
+Output:<img src="https://github.com/user-attachments/assets/e00eb7d7-70c2-491e-b115-5ce1e3950888" width="200" height="300" />
 
 2.[videostackingh.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/videostackingh.py)
 Stacks multiple video streams into a single frame for multi-feed monitoring horizontally.
@@ -144,7 +146,8 @@ Output:
 4.[tanya_fps.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_fps.py)
 Calculates the frames per second (FPS) of a video stream, helping to monitor video processing performance.
 
-Output:
+Output:<img src="https://github.com/user-attachments/assets/a2ac3914-5044-437d-bf30-d1f8e687d66d" width="200" height="300" /><img src="https://github.com/user-attachments/assets/01ed5218-3393-4095-a38e-b4e911b5902d" width="200" height="300" />
+
 
 5.[tanya_multiv.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_multiv.py)
 Displays multiple video streams, facilitating complex video comparisons and processing.
@@ -154,7 +157,7 @@ Output:
 6.[tanya_stream.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/vedio_processing/tanya_stream.py)
 Streams video in real-time from a file or camera, forming the base for further processing.
 
-Output: 
+Output: <img src="https://github.com/user-attachments/assets/e00eb7d7-70c2-491e-b115-5ce1e3950888" width="200" height="300" />
 
 
 3. [Annotations](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/Annotations) 📝

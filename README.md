@@ -13,11 +13,15 @@ Scripts for fundamental image processing operations that aid in analyzing learne
 
 1.[detectanderosion.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/detectanderosion.py)
 Performs dilation and erosion operations, essential morphological techniques in image processing.
-Output: <img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="500" height="300" />
+
+Output:
+<img src="https://github.com/user-attachments/assets/48e66b29-f920-494e-83fb-db9f61b827d4" width="500" height="300" />
 
 2.[edgedetect.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/edgedetect.py)
 Detects image edges using algorithms that highlight object boundaries.
-Output: <img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-9d81-e5192aa598a9" width="200" height="300" />
+
+Output:
+<img src="https://github.com/user-attachments/assets/73d67905-24f2-4d37-9d81-e5192aa598a9" width="200" height="300" />
 
 3.[rgbtogrey.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rgbtogrey.py)
 Converts images to grayscale , common preprocessing steps in image analysis.
@@ -29,7 +33,9 @@ Output:<img src="https://github.com/user-attachments/assets/ea83a0db-737e-484d-9
 
 5.[rotate.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/rotate.py)
 Rotates images by specified angles, useful for alignment and augmentation.
-Output: <img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
+
+Output: 
+<img src="https://github.com/user-attachments/assets/dac0d76d-6cee-4e68-9448-66a31ce07a1c" width="200" height="300" />
 
 6.[singleimage.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/singleimage.py)
 Basic utility script for opening and manipulating a single image.

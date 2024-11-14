@@ -37,7 +37,8 @@ Output:
 
 7.[blur.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/blur.py)
 Applies various blurring techniques for noise reduction and smoothing.
-Output:![Screenshot 2024-11-14 183150](https://github.com/user-attachments/assets/9c210921-36ac-4cc5-a3ba-2f01f30ee597)
+Output:<img src="https://github.com/user-attachments/assets/9c210921-36ac-4cc5-a3ba-2f01f30ee597" width="600" height="400" />
+
 
 8.[imgstack.py](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/blob/main/image_processing/imgstack.py)
 Concatenates multiple images into one, ideal for creating mosaics or comparisons.

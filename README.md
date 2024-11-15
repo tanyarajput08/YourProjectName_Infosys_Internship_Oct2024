@@ -268,7 +268,7 @@ imutils==0.5.4
 datetime==5.5
 os
  
-This section focuses on face recognition and attentiveness analysis using Python, OpenCV, dlib, and the face_recognition library.
+
 
 1. [tanya_atten_score](https://github.com/tanyarajput08/YourProjectName_Infosys_Internship_Oct2024/tree/main/tanya_atten_score)
 

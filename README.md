@@ -397,9 +397,9 @@ Additional tools and utilities to support face recognition and attention analysi
 
 <img src="https://github.com/user-attachments/assets/ad8c23d7-b47c-429f-99ed-9e3291a087ce" alt="Screenshot" width="300" height="300">
 
-##[self-made changes]
+## [self-made changes]
 
-###description 
+### description 
 requirements
 opencv-python==4.8.1.78
 dlib==19.24.2
@@ -411,39 +411,39 @@ matplotlib==3.7.1
 imutils==0.5.4
 scipy==1.10.1
 
-###Features & Components
+### Features & Components
 
-####1.Styling & Aesthetic Design:
+#### 1.Styling & Aesthetic Design:
 
 Uses Streamlit to create a dashboard interface.
 setup_styles customizes the appearance with CSS for a modern and professional UI, including gradients, animations, and hover effects.
 Fonts such as Inter and Space Grotesk ensure readability and style.
 
-####2.Start Screen:
+#### 2.Start Screen:
 
 The show_start_screen function displays the initial interface with a title, subtitle, and image.
 Includes a button to initiate the real-time monitoring system.
 
-####3.Known Faces Loading:
+#### 3.Known Faces Loading:
 
 The load_known_faces function reads face images from a directory, encodes them using face_recognition, and stores them in st.session_state.
 
-####4.Attention Score Calculation:
+#### 4.Attention Score Calculation:
 
 calculate_attention_score evaluates user engagement based on yaw (left-right) and pitch (up-down) angles.
 Penalizes extreme movements and limits scores between 0 and 100 for consistent feedback.
 
-####5.Attention Data Management:
+#### 5.Attention Data Management:
 
 The update_attention_data function appends real-time attention scores and timestamps for each user.
 Retains only a defined number of recent data points for performance and visualization clarity.
 
-####6.Real-Time Dashboard Updates:
+#### 6.Real-Time Dashboard Updates:
 
 update_dashboard visualizes attention scores over time using matplotlib.
 Employs smoothing techniques (make_interp_spline) for better trend representation and uses color gradients to indicate engagement levels.
 
-###output
+### output
 Dashboard images of student monitoring system
 
 <img src="https://github.com/user-attachments/assets/307284ae-c2c0-4104-afd8-fa24e43e36f7" alt="Screenshot 1" width="300" height="300">

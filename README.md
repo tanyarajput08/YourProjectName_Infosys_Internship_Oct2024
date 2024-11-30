@@ -443,6 +443,9 @@ Retains only a defined number of recent data points for performance and visualiz
 update_dashboard visualizes attention scores over time using matplotlib.
 Employs smoothing techniques (make_interp_spline) for better trend representation and uses color gradients to indicate engagement levels.
 
+###output
+Dashboard images of student monitoring system
+
 <img src="https://github.com/user-attachments/assets/307284ae-c2c0-4104-afd8-fa24e43e36f7" alt="Screenshot 1" width="300" height="300">
 
 <img src="https://github.com/user-attachments/assets/00105f59-cbda-4ebb-beb3-f7554757c676" alt="Screenshot 2" width="300" height="300">
